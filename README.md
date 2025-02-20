@@ -2,7 +2,7 @@
 # Eczema Support Chatbot
 
 This is a chatbot built with **Botpress** that provides **eczema-related support** in South Africa. The bot offers users medical, mental health, and product support helplines, as well as information on common **eczema trigger foods** and **irritating ingredients**. It is designed to be a helpful resource for those living with eczema, guiding them to the appropriate helplines and helping them identify products and foods that may aggravate their condition.
-
+## Link: https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/02/20/19/20250220190812-MD814667.json
 ## Features
 - **Helpline Support**: Provides users with medical, mental health, product, and emergency assistance helplines in South Africa.
 - **Trigger Foods/Ingredients**: Helps users identify foods and skincare products that may trigger eczema flare-ups.
